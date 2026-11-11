@@ -1,6 +1,6 @@
 # SPEC 01 — MVP del Arkanoid
 
-> **Estado:** Borrador
+> **Estado:** Aprobado
 > **Depende de:** ninguna (usa los assets ya existentes en `assets/`)
 > **Fecha:** 2026-11-11
 > **Objetivo:** Un Arkanoid jugable en el navegador, de un solo nivel, con paddle, bola, 140 bloques, vidas, pausa y pantallas de inicio, victoria y game over.
